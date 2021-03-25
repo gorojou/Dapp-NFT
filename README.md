@@ -1,1 +1,3 @@
 # Dapp-NFT
+
+IN PROCESS for Strimo project too...
